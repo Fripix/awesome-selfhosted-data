@@ -1,0 +1,12 @@
+name: FriRSS
+website_url: https://github.com/Fripix/Frirss
+source_code_url: https://github.com/Fripix/Frirss
+description: Customizable self-hosted web frontend for FreshRSS, with offline reading, multiple layouts, and optional AI-powered summaries and translations. Requires a FreshRSS instance.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Feed Readers
+demo_url: https://frirss.fripix.ch
